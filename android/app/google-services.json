@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237163800596",
+    "project_id": "apptra-4c4e9",
+    "storage_bucket": "apptra-4c4e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237163800596:android:8c023d4505775f7a735f01",
+        "android_client_info": {
+          "package_name": "com.example.apptracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6xROOr5KChZ1ZTEnhlBZsTEIxgcmOiuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
