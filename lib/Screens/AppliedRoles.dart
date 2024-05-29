@@ -33,7 +33,7 @@ class _ShowIdPasswordState extends State<ShowIdPassword> {
                 'Home',
                 style: TextStyle(
                   color: Colors.white,
-                  fontSize: 24,
+                  fontSize: 20,
                 ),
               ),
             ),
@@ -53,7 +53,7 @@ class _ShowIdPasswordState extends State<ShowIdPassword> {
             ),
             ListTile(
               leading: Icon(Icons.contacts),
-              title: Text('Contacts'),
+              title: Text('To Do Task'),
               onTap: () {
                 Get.to(() => TodoListScreen());
               }
